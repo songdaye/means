@@ -87,7 +87,7 @@
 >* 浏览器知道你的哪些信息：http://c7sky.com/what-every-browser-knows-about-you.html  
 >* 试试这10个“Chorme开发工具”使用技巧：https://www.sdk.cn/news/2791  
 >* 基础 JavaScript 装逼指南：https://annatarhe.github.io/2016/04/19/hack-js-code.html  
->* <head>标签中到底可以放什么?：https://github.com/xiaoyu2er/HEAD
+>* head标签中到底可以放什么?：https://github.com/xiaoyu2er/HEAD
 
 ## Linux  
 >* 鸟哥的Linux私房菜：http://vbird.dic.ksu.edu.tw/  
